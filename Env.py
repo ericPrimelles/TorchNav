@@ -5,7 +5,7 @@ from Circle import Circle
 import matplotlib.pyplot as plt
 from typing import Any
 import tensorflow as tf
-from utils import flatten
+
 
 np.set_printoptions(3)
 class DeepNav():
